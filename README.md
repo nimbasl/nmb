@@ -1,0 +1,2 @@
+# nmb
+Untuk belajar
